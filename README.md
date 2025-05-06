@@ -52,7 +52,7 @@
 
 
 
-### Name: CHNDRU SM
+### Name: CHANDRU SM
 ### Register Number:212223230034
 
 ## RESULT:
